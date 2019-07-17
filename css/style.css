@@ -1,0 +1,26 @@
+body {
+    background:url('../img/Img\ Background1.png');
+    font-family: 'PT Mono', monospace;
+    margin:0 auto;
+}
+
+.page {
+    background: #fff178;
+    color:black;
+    margin:0 auto;
+    width:40%;
+}
+
+.main {
+    margin:0 auto;
+
+}
+
+.title {
+    font-size:350%;
+    margin:200px 0;
+}
+
+.text-center {
+    text-align: center;
+}
